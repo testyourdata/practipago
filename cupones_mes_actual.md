@@ -2,7 +2,7 @@
 layout: page
 title: Cupones por mes
 description: Analisis del uso de los cupones por mes
-image: assets/images/pic12.jpg
+image: assets/images/pic14.jpg
 nav-menu: true
 ---
 

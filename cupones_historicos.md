@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Historico de cupones
-image: assets/images/pic13.jpg
+image: assets/images/pic16.jpg
 description: Como estamos usando nuestros cupones?
 nav-menu: true
 ---

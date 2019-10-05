@@ -4,13 +4,15 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<img src="assets/images/practiclub.png" alt="" width="50" height="50" padding-top: 15px/>
+
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
 </header>
-
 <!-- Menu -->
 <nav id="menu">
+		<img src="assets/images/practiclub.png" alt="" width="125" height="125"/>
 	<ul class="links">
         {% for page in site.pages %}
 		    {% if page.layout == "home" %}

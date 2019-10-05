@@ -2,7 +2,7 @@
 layout: page
 title: Clientes
 description: Compartamiento del cliente
-image: assets/images/pic12.jpg
+image: assets/images/pic13.jpg
 nav-menu: true
 ---
 <section id="one">

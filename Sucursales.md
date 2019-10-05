@@ -2,7 +2,7 @@
 layout: page
 title: Sucursales
 description: Mapa de sucursales
-image: assets/images/pic12.jpg
+image: assets/images/pic15.jpeg
 nav-menu: true
 ---
 <section id="one">
