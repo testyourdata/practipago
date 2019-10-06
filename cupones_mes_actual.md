@@ -7,6 +7,7 @@ nav-menu: true
 ---
 
 <section id="one" class="row center-xs">
-<iframe width="1320px" height="900px" style="border:none;"  src="https://public.tableau.com/views/demo_posta_cupones_de_un_mes/CuponesMesActual?:showVizHome=no&:embed=true" name="iframe_a"></iframe>
+<iframe width="1280px" height="900px" style="border:none;"  src="https://public.tableau.com/views/practipago_cupones_por_mes/CuponesMesActual?:showVizHome=no&:embed=true" name="iframe_a">
+</iframe>
 </section>
 
