@@ -3,7 +3,7 @@ title: Analyze Practipago
 subtitle: by POSTA
 email: info@posta.com
 description: Información de Practipago
-baseurl: "/practipago" # the subpath of your site, e.g. /blog
+baseurl: "practipago" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Montevideo
